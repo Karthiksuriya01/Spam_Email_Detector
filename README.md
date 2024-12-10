@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Spam Detector</h1>
     <p>This project is a simple spam detection model built using Python and machine learning libraries.</p>
     <h2>Installation</h2>
     <p>To run this program, you need to have Python installed on your machine. You can download it from <a href="https://www.python.org/downloads/">python.org</a>.</p>
