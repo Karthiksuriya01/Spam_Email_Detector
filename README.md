@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Spam Detector README</title>
 </head>
 <body>
     <h1>Spam Detector</h1>
