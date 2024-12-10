@@ -7,6 +7,7 @@
 </head>
 <body>
     <p>This project is a simple spam detection model built using Python and machine learning libraries.</p>
+    <h2>Spam_Detector.ipnyb</h2>
     <h2>Installation</h2>
     <p>To run this program, you need to have Python installed on your machine. You can download it from <a href="https://www.python.org/downloads/">python.org</a>.</p>
     <p>After installing Python, you need to install the required libraries. You can do this using pip:</p>
